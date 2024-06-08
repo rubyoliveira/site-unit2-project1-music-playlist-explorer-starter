@@ -164,5 +164,30 @@ footer{
   
 
   
+  .button{
+    background-color: #f8b5dc;
+    border-radius: 8px;
+    border-color:#f999d1;
+    display: flex;
+  }
 
-  
+  .playlist-like{
+    padding-left: 5px;
+    flex: 1;
+    float: right;
+    color: #c8338a;
+  }
+
+  #likes{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+  }
+
+  .shuffle{
+    background-color: #f8b5dc;
+    border-radius: 8px;
+    border-color:#f999d1;
+    display: flex;
+    color: #c8338a;
+  }
